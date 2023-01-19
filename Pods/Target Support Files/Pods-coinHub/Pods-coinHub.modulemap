@@ -1,0 +1,6 @@
+module Pods_coinHub {
+  umbrella header "Pods-coinHub-umbrella.h"
+
+  export *
+  module * { export * }
+}
